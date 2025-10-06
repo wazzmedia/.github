@@ -30,7 +30,7 @@ At **Micro Toolkit**, we believe software should be:
 - 👤 Owner: **Md. Shahinur Islamm**  
 - 📧 Email: [shahinalam6644@gmail.com](mailto:shahinalam6644@gmail.com)  
 - 🌍 Website: [wazzmedia.blogspot.com](https://wazzmedia.blogspot.com/)  
-- 📱 Play Store: [Micro Toolkit Apps](https://play.google.com/store/apps/dev?id=9007422588441707223)  
+- 📱 Play Store: [Wazz Media Apps](https://play.google.com/store/apps/dev?id=9007422588441707223)  
 
 ---
 
