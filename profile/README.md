@@ -18,7 +18,7 @@ Some of our focus areas:
 ---
 
 ## 🚀 Mission
-At **Micro Toolkit**, we believe software should be:
+At **Wazz Media**, we believe software should be:
 - **Open Source** – transparent and accessible for everyone.  
 - **Lightweight** – fast, minimal, and resource-friendly.  
 - **User-Friendly** – simple to use, yet powerful.  
@@ -46,7 +46,7 @@ Bug reports, feature suggestions, and translations are also highly appreciated.
 ---
 
 ## 🛡 License
-All apps under **Micro Toolkit** are released as **open source**.  
+All apps under **Wazz Media** are released as **open source**.  
 Check each repository for its specific license (MIT, Apache, etc.).
 
 ---
